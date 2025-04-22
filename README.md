@@ -26,24 +26,6 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiralPatel-15&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiralPatel-15&layout=compact&theme=tokyonight&langs_count=6" height="165" />
-</div>
-
-
----
-
-### 🔥 Contributions 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiralPatel-15&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📬 Let's Connect
 
 <p align="center">
