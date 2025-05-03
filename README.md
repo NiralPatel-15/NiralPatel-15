@@ -1,5 +1,11 @@
 <h1 >Hey there! 👋 I'm Niral Patel</h1>
 
+<p >
+  🎓 Aspiring Software Engineer from India <br>
+  💻 Full-Stack Developer | Tech Explorer <br>
+  🌱 Currently diving deep into new frameworks & tools <br>
+  🚀 Turning ideas into real-world projects
+</p>
 
 ---
 
