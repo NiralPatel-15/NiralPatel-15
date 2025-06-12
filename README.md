@@ -27,11 +27,7 @@
 
 ### 📬 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/niral-patel-05431a270/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:patelniral0213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://instagram.com/_niral_patel/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+
 
 
 ---
